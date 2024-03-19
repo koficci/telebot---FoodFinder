@@ -1,0 +1,267 @@
+Arbora Hilltop Garden & Bistro,109 Mount Faber Rd Faber Peak,HarbourFront,Cafe
+Brotzeit,#01-149 VivoCity,HarbourFront,Bar
+Chez Suzette,5 Teck Lim Road,Outram Park,Cafe
+Cure,21 Keong Saik Road,Outram Park,FancyDining
+Lumo Bar,50 South Bridge Rd #01-00,Outram Park,Bar
+Onne,5 Kampong Bahru Rd,Outram Park,Cafe
+PS. Cafe Ann Siang Hill,45 Ann Siang Rd #02-02,Chinatown,Cafe
+September Coffee,258 South Bridge Rd,Chinatown,Cafe
+Cafe GUI,278 South Bridge Rd,Chinatown,Cafe
+Kohaku Sabo 琥珀茶房,Chinatown point,Chinatown,CasualDining
+Paaru.sg (パール),195 Pearl’s Hill Terrace,Chinatown,Cafe
+Yellow Pot,83 Duxton Road,Chinatown,FancyDining
+Grids Coffee,200 South Bridge Road,Chinatown,Cafe
+REVIVAL BAR,205 River Valley Rd #01-76,Clarke Quay,Bar
+THE COOPERAGE,42 Hongkong St,Clarke Quay,Bar
+Bones n Slaw,Clarke Quay Central #02-82/83,Clarke Quay,Cafe
+Offtrack,34 N Canal Rd,Clarke Quay,Bar
+Isshin Machi,1 Selegie Rd #01-01 GR.iD,Dhoby Ghaut,Cafe
+Nunsaram Korean Dessert Cafe Plaza Singapura 눈사람,68 Orchard Rd,Dhoby Ghaut,CasualDining
+Thai Gold Food,#01-14/22 Sunshine Plaza,Dhoby Ghaut,CasualDining
+Warm Up Cafe,110 Mackenzie Rd,Little India,Cafe
+Don Bar & Bistro,68 Circular Rd,Little India,Bar
+Syip,79 Owen Road Singapore 218895,Farrer Park,Cafe
+Sushi Jin, 1 Farrer Park Station Rd #01-11/12 Owen Link,Farrer Park,FancyDining
+Platform 1094,1094 Serangoon Rd,Boon Keng,Cafe
+Hey Slow Joe,1 Tessensohn Rd #01-10,Boon Keng,Cafe
+Folk Yard,#01-59 Poiz Centre,Potong Pasir,Cafe
+Rise: Coffee,148 Potong Pasir Ave 1 #01-53,Potong Pasir,Cafe
+Bulgogi Syo,#01-33/34 Woodleigh Mall,Woodleigh,CasualDining
+VeganBurg,#01-37 Woodleigh Mall,Woodleigh,Cafe
+Sunray Cafe,79 Brighton Cres,Serangoon,Cafe
+Apollo Coffee Bar,65 Serangoon Garden Way,Serangoon,Cafe
+Plonk,7 Maju Ave Singapore 556685,Serangoon,Bar
+The Plain Jane,Blk 211 Serangoon Avenue 4 #01-10,Serangoon,Cafe
+FATCAT Ice Cream & Coffee ,15 Simon Rd ,Kovan,Cafe
+Beer Basket,1010 Upper Serangoon Rd,Kovan,Bar
+Ola Acai,210 Hougang St 21 #01-273,Hougang,Cafe
+Flavour Flings ,121 Hougang Ave 1 #01-1348,Hougang,Cafe
+Liu Kou Shui,#02-K25 Buangkok Hawker Centre,HarbourFront,FoodStall
+Shawarma N,#02-K01 Buangkok Hawker Centre,HarbourFront,FoodStall
+Apricus Cafe,248 Jln Kayu,Sengkang,Cafe
+Eat 3 Bowls,B1-17 Compass One,Sengkang,Cafe
+Anna’s Sour Dough,681 Punggol Dr #01-04 Oasis Terraces,Punggol,Cafe
+HJ Bistro,11 Northshore Dr,Punggol,Bar
+House of White Bee Hoon,#01-10 The Punggol Settlement,Punggol,CasualDining
+Whisk & Paddle,10 Tebing Ln,Punggol,Cafe
+Marina Bistro,10 Tuas West Dr,Tuas Link,CasualDining
+Captain's Table,10 Tuas West Dr,Tuas Link,FancyDining
+Tuas Kampung,29 Tuas W Ave,Tuas West Road,FoodStall
+Tuas Village,10 Tuas Ave 3,Tuas Crescent,FoodStall
+WESTEND,511 Upper Jurong Rd,Gul Circle,CasualDining
+Hahahotpot D'Arena,Block B Upper Jurong Rd #01-09/10,Gul Circle,CasualDining
+Cuzzies Corners,511 Upper Jurong Rd,Gul Circle,FoodStall
+Nandhana’s Restaurant,1 Joo Koon Cir,Joo Koon,CasualDining
+Devil's Kitchen,1 Yuan Ching Rd #01-03A/07,Pioneer,CasualDining
+Southwest Tavern,8 Boon Lay Wy #01-33 Tradehub 21,Boon Lay,CasualDining
+Ramen KIOU,1 Jurong West Central 2 #B1-53/54 Jurong Point,Boon Lay,CasualDining
+Kim Lotus Dessert,Blk 463 Jurong West St 41,Lakeside,FoodStall
+The Ride Side Skate Cafe,#01-01 Rainforest Pavilion @ Jurong Lake Gardens,Lakeside,Cafe
+The Carving Board,252 Jurong East St 24 #01-107,Chinese Garden,FoodStall
+Cherry Garden,5 Raffles Ave,Chinese Garden,FancyDining
+OLLA Specialty Coffee,381 Clementi Avenue 5 #01-402,Clementi,Cafe
+MADLYGOOD,#05-22 The Clementi Mall,Clementi,CasualDining
+Burnt Cones Gelato,105 Clementi Street 12 #01-02,Clementi,Cafe
+HoHo Korean Restaurant,106 Clementi Street 12 #01-58/60,Clementi,CasualDining
+Waa Cow!,#01-06 College Ave West,Dover,CasualDining
+Plan A Dessert Cafe,#02-27A Star Vista,Buona Vista,Cafe
+IKEA Alexandra Restaurant,317 Alexandra Rd Level 1,Commonwealth,CasualDining
+Sin & Savage Bakehouse,#01-1153 Stirling View,Queenstown,Cafe
+OVERBRØD,370 Alexandra Rd #01-14A,Queenstown,Cafe
+Durian Lab Café,119 Bukit Merah Lane 1 #01-22,Queenstown,Cafe
+Oäsis Biströ & Café,2 Kung Chong Rd #04-01,Redhill,Bar
+Skirt & Dirt,30 Seng Poh Rd #02-66,Tiong Bahru,FoodStall
+Starter Lab Bakery,721 Havelock Rd,Tiong Bahru,Cafe
+Breakfast Club,#B1-135 Tiong Bahru Plaza,Tiong Bahru,CasualDining
+Apiary,84 Neil Rd,Outram Park,Cafe
+Shake Shack,89 Neil Rd,Outram Park,CasualDining
+CAFE KREAMS,#01-07 Maxwell Chambers,Tanjong Pagar,Cafe
+Kapitan.sg,#01-05 Maxwell Chambers,Tanjong Pagar,CasualDining
+Routine Korean Fushion Cafe & Bar,60 Duxton Rd,Tanjong Pagar,Bar
+Unatoto,Guoco Tower #B1-03,Tanjong Pagar,CasualDining
+Tsukimi Hamburg,#01-05 CapitaSpring,Raffles Place,CasualDining
+Humble Bakery,#02-27 One Raffles Place,Raffles Place,Cafe
+Surrey Hills Deli,6 Battery Road #01-02,Raffles Place,Cafe
+Hvala CHIJMES,#01-04 CHIJMES,City Hall,Cafe
+Tipsy Flamingo,#01-17A Raffles City Shopping Centre,City Hall,Bar
+PS.Cafe,#03-37 Raffles City Shopping Centre,City Hall,Cafe
+Una Una,#05-02/03 Bugis+,Bugis,CasualDining
+Belle-ville Pancake Cafe,#01-01B Bugis Junction Towers,Bugis,Cafe
+Pancake & Waffle Place,56 Kandahar St,Bugis,Cafe
+Whiskdom Cookies and Brownies,757 North Bridge Rd,Bugis,Cafe
+Tolido’s Espresso Nook,462 Crawford Lane #01-63,Lavender,Cafe
+Oberstrasse,809 French Rd #1-50,Lavender,Cafe
+Holy Cow Creamery,465 North Bridge Road #01-5051,Lavender,Cafe
+Elijah Pies,803 King George’s Ave #02-216,Lavender,Cafe
+The Refinery,115 King George’s Ave Unit 01-02,Lavender,Cafe
+Typhoon Cafe,Kallang Wave Mall #01-35,Kallang,Cafe
+Ducking Good 好吃鸭,487 Geylang Rd,Aljunied,CasualDining
+Wursthans Switzerland,PLQ Mall #01-39,Paya Lebar,CasualDining
+Jimmy Monkey Cafe,Paya Lebar Quarter Parkside Playground Floor 1,Paya Lebar,Cafe
+Fluff Stack,PLQ Mall #B1-K3,Paya Lebar,Cafe
+Bistro 101,TSL 101 #01-01/02,Eunos,CasualDining
+Birdie Num Num Gastrobar,54 Jalan Kembangan,Kembangan,CasualDining
+COFFEESARANG,Bedok Mall #01-78,Bedok,Cafe
+Kebabchi Biryani,Bedok Mall #01-12,Bedok,CasualDining
+KOBEPI,Urban Vista Condo #01-49,Tanah Merah,CasualDining
+Munchi Pancakes,248 Simei Street 3 #01-136,Simei,FoodStall
+Harry's,Hitachi Asia Ltd. #01-19,Tampines,CasualDining
+Wild Olives,Pasir Ris Central Hawker Centre #02-19,Pasir Ris,FoodStall
+Ministry of Burgers,E!Hub #01,Pasir Ris,FoodStall
+The Dim Sum Place,Changi City Point #B1-30/31,Expo,CasualDining
+A&W,Jewel #B2-209,Changi Airport,CasualDining
+O’Coffee Club,Jewel #03-216/218,Changi Airport,Cafe
+Pizzamaru,Jewel #04-222,Changi Airport,CasualDining
+Waffl,Blk 262 Jurong East St 24 #01-489,Jurong East,Cafe
+Joo Siah Bak Koot Teh , #01-1215 Kai Xiang Food Centre,Jurong East,CasualDining
+Famous JB 101,21 Bukit Batok Cres Wcega Tower Floor 658065,Bukit Batok,CasualDining
+Ramen Taisho,#01-12 Le Quest Shopping Mall,Bukit Batok,CasualDining
+THE NEIGHBOURWOK,Get Together Coffeeshop,Bukit Batok,FoodStall
+Shi Mei Hainanese Chicken Rice,371 Bukit Batok Street 31,Bukit Gombak,FoodStall
+Jub Jub Mookata,Blk 810 Choa Chu Kang Avenue 7,Choa Chu Kang,FoodStall
+San.wich,Lot One,Choa Chu Kang,Cafe
+HEY SUGAR,818 Choa Chu Kang Avenue 1 #01-06,Choa Chu Kang,Cafe
+Bee-Live Beverage & Dessert,B1 YewTee Point,Yew Tee,CasualDining
+No Horse Run Cafe,#01-22 YewTee Point,Yew Tee,Cafe
+Bollywood farms,100 Neo Tiew Rd,Kranji,Cafe
+Hong Ji Claypot Bak Kut Teh,#01-329 Teo Chap Bee Eating House,Marsiling,FoodStall
+Tenderbest Makcik Tuckshop,#01-68 MEGA@Woodlands,Woodlands,Cafe
+Tipsy Panda,#01-01 Woods Square,Boon Keng,Bar
+Thorny’s, #01-26 Primz Bizhub,Admiralty,Cafe
+The Nursery Cafe & Bar, #01-16 ARK @Gambas,Sembawang,Cafe
+Common Chefs,8 Jalan Legundi #01-13 Victory 8,Sembawang,Cafe
+Ramen King,#01-07/08 Canberra Plaza,Canberra,CasualDining
+Pho Street,#01-07 Canberra Plaza,Canberra,CasualDining
+Slow Bakes ,30A Yishun Central 1 Tzu Chi Humanistic Youth Centre,Yishun,Cafe
+Coba Coba,Blk 156 Yishun St 11 #01-106,Yishun,Cafe
+Fluff Stack,#02-115 Northpoint City,Yishun,Cafe
+Suki-Suki Hot Pot,#01-01 HomeTeamNS Khatib,Khatib,CasualDining
+L’Rez, 180 Ang Mo Kio Avenue 8 Level 3 Block F Nanyang Polytechnic,Yio Chu Kang,Cafe
+Pietro Ristorante Italiano,12 Jln Kelulut,Yio Chu Kang,FancyDining
+Professor Brawn Café,5 Ang Mo Kio Ave 10,Ang Mo Kio,Cafe
+AM:PM CAFE,529 Ang Mo Kio Ave 10 #01-2365,Ang Mo Kio,Cafe
+Good Bites,5 Bishan St 14 #03-01,Bishan,Cafe
+Knockhouse Cafe,185 Upper Thomson Rd,Bishan,Cafe
+Canopy Bishan,1382 Ang Mo Kio Ave 1 Bishan Park 2,Bishan,CasualDining
+M Kitchen,#01-00 BCA BRADDELL CAMPUS BLK E,Braddell,FoodStall
+Thailily Restaurant,Toa Payoh Block 107 Lorong 1 #01-268,Braddell,CasualDining
+The Larder Cafe,Blk 177 Toa Payoh Central #01-124,Toa Payoh,FoodStall
+Shrove Tuesday,Blk 94 Lorong 4 Toa Payoh #01-32,Toa Payoh,CasualDining
+Cafe Gui, #02-10 Royal Square at Novena,Novena,Cafe
+The Clueless Goat,Goldhill Plaza Mall,Novena,Cafe
+Good Bites, 5 Bishan St 14 #03-01,Newton,Cafe
+PS.Cafe Palais Renaissance,390 Orchard Rd #02-09A,Orchard,Cafe
+Oriole Coffee + Bar,96 Somerset Rd #01-01,Orchard,Bar
+Crossroads Cafe,320 Orchard Road Singapore Marriott Tang Plaza Hotel,Orchard,Cafe
+FYP Cafe,#04-22 Orchard Central,Somerset,Cafe
+Honolulu Cafe, #01-33F/G The Centrepoint,Somerset,Cafe
+Equate Coffee,#01-17A Orchard Central,Somerset,Cafe
+No.5 Emerald Hill,5 Emerald Hill Rd,Somerset,Bar
+Muji cafe,#01-10 Plaza MUJI Plaza,Dhoby Ghaut,Cafe
+Isshin Machi,1 Selegie Rd #01-01 GR.iD,Dhoby Ghaut,Cafe
+Thai Gold Food,#01-14/22 Sunshine Plaza,Dhoby Ghaut,CasualDining
+Glasshouse,30 Victoria St #01-03 CHIJMES,City Hall,Cafe
+Menya Kokoro,#03-313 Suntec City,City Hall,CasualDining
+Café Kitsuné,13 Stamford Rd #01-11,City Hall,Cafe
+Clap Cafe,Waterloo St #01-28 Blk 261,City Hall,Cafe
+The Secret Mermaid,10 Collyer Quay B1-09 Ocean Financial Centre,Raffles Place,Bar
+Taylor Adam,1 Raffles Pl #01-03,Raffles Place,Bar
+Black Tap Craft Burgers & Beers,#L1-80 Bay Level The Shoppes at Marina Bay Sands,Marina Bay,FancyDining
+LAVO Italian Restaurant and Rooftop Bar,Level 57 Tower One Marina Bay Sands,Marina Bay,FancyDining
+No Name Cafe,31 Marina Coastal Dr #01-08,Marina Bay,FoodStall
+Muji cafe,#01-10 Plaza MUJI Plaza,Dhoby Ghaut,Cafe
+Isshin Machi,1 Selegie Rd #01-01 GR.iD,Dhoby Ghaut,Cafe
+Thai Gold Food,#01-14/22 Sunshine Plaza,Dhoby Ghaut,CasualDining
+Food For Thought,93 Stamford Road National Museum of Singapore,Bras Basah,Cafe
+The Malayan Council,8 Raffles Avenue Esplanade Mall Suite 02-14,Esplanade,FancyDining
+The Boiler,8 Raffles Avenue Esplanade Mall #01-13A Esplanade Annexe,Esplanade,Bar
+The Vermilion House,#02-03/04 Marina Square,Promenade,FancyDining
+Waku Ghin,L2-03 The Shoppes,Bayfront,FancyDining
+PS.Cafe,10 Bayfront Ave B2-119-120A,Bayfront,CasualDining
+Co Hai,359 Beach Rd,Nicoll Highway,CasualDining
+Tipo Pasta,28 Aliwal St #01-07,Nicoll Highway,Cafe
+Omoomo,Kallang Wave Mall #01-40,Stadium,CasualDining
+Gourmet Pizza To Go, #01-43 Kallang Wave Mall,Stadium,CasualDining
+Golden Ocean Korean Seafood & BBQ,865 Mountbatten Rd,Mountbatten,CasualDining
+Seng House,214 Tanjong Katong Rd,Dakota,CasualDining
+Jimmy Monkey Cafe,Paya Lebar Quarters,Paya Lebar,Cafe
+Tipsy Bird Gastrobar,#01-08 Paya Lebar Quarters,Paya Lebar,Bar
+Fluff Stack,B1-K3 PLQ Mall,Paya Lebar,CasualDining
+Knots Cafe & Living,#01-07 Orion@PayaLebar 409022,Macpherson,Cafe
+Rocky Master,18 Tai Seng St #01-28,Tai Seng,Cafe
+Folke Cafe,#01-04 Tai Seng Centre,Tai Seng,Cafe
+Ben Fatto,95 Paya Lebar Cres,Bartley,CasualDining
+Sunray Cafe,79 Brighton Cres,Serangoon,Cafe
+Apollo Coffee Bar,65 Serangoon Garden Way,Serangoon,Cafe
+Plonk,7 Maju Ave Singapore 556685,Serangoon,Bar
+The Plain Jane,Blk 211 Serangoon Avenue 4 #01-10,Serangoon,Cafe
+Dutch Colony Coffee Co,151 Lorong Chuan #01-08,Lorong Chuan,Cafe
+La Pizzaiola,15 Jln Riang,Lorong Chuan,CasualDining
+Good Bites, 5 Bishan St 14 #03-01,Bishan,Cafe
+Knockhouse Cafe,185 Upper Thomson Rd,Bishan,Cafe
+Canopy Bishan,1382 Ang Mo Kio Ave 1 Bishan Park 2,Bishan,CasualDining
+Cottage, 1 Pemimpin Dr #01-02,Marymount,Cafe
+Meng's Kitchen,246B Upper Thomson Rd,Caldecott,CasualDining
+Halia,Ginger Garden Singapore Botanic Gardens,Botanic Gardens,Cafe
+FBG,#01-04 Serene Centre,Botanic Gardens,Cafe
+Atlas Coffeehouse,6 Duke's Rd,Botanic Gardens,Cafe
+Da Paolo Pizza Bar,118 Holland Ave,Botanic Gardens,Bar
+Anteroom Coffee Brewers,#01-61 Farrer Wing Clubhouse,Farrer Road,Cafe
+Bumbu Restaurant,4 Queen's Rd #02-101,Farrer Road,CasualDining
+Lola's,48 Lor Mambong,Holland Village,Cafe
+Warm Up Cafe, #02-10/11 The Star Vista,Buona Vista,CasualDining
+Dewgather, #01-46 The Star Vista,Buona Vista,Cafe
+roots@onenorth, 3 Fusionopolis Pl Worklof #01-50 Galaxis,one-north,Cafe
+Sunny Korean Cuisine, NUH, Kent Ridge,FoodStall
+After Hours,27 W Coast Hwy #01-07,Haw Par Villa,Cafe
+Three Monkeys,122 Pasir Panjang Road,Pasir Panjang,CasualDining
+Black Cherry Osteria,4 Jalan Mat Jambol #01-09,Pasir Panjang,Cafe
+Blue Balls Bike Cafe,44 Pasir Panjang Rd,Labrador Park,Cafe
+Hai Kee Char Kway Teow,Telok Blangah Crescent #01-102,Telok Blangah,FoodStall
+Su Yuan Vegetarian,Telok Blangah Crescent #01-113,Telok Blangah,FoodStall
+Yuugo, 48 Bencoolen Street V Hotel,Bencoolen,Cafe
+The Mind Cafe,30 Prinsep Street,Bencoolen,Bar
+Apartment Coffee,139 Selegie Rd #01-01,Jalan Besar,Cafe
+Chye Seng Huat Hardware,150 Tyrwhitt Rd,Jalan Besar,CasualDining
+SYIP,72 Bendemeer Rd #01-05,Bendemeer,Cafe
+Hui Wei Chilli Ban Mian,Geylang Bahru Food Centre #01-58,Geylang Bahru,FoodStall
+136 Hong Kong Street Fish Head Steamboat,Blk 1 Upper Aljunied Lane #01-02,Mattar,FoodStall
+Knots Cafe & Living,#01-07 Orion@PayaLebar 409022,Macpherson,Cafe
+Lady Grey,31 Ubi Rd 1 #01-06,Macpherson,Cafe
+Cafe Limonci,63 Ubi Rd 1 #01-17 Oxley Bizhub Foodhub,Ubi,Cafe
+Compound Coffee Co,31 Kaki Bukit Rd 3 #01-02C,Kaki Bukit,Cafe
+Home Cafe,150 Bedok Reservoir Rd #01-1727,Bedok North,Cafe
+Refuel Cafe, 744 Bedok Reservoir Rd #01-3029 Reservoir Village,Bedok Reservoir,Cafe
+Wawawa,901 Bedok Reservoir Rd,Bedok Reservoir,CasualDining
+Three's A Crowd, 802 Tampines Ave 4 #01-11,Tampines West,Cafe
+7th Heaven KTV and Cafe,SAFRA Tampines #03-02,Tampines West,Cafe
+Hundred Acre Creamery, Block 824 Tampines Street 81 #01-24,Tampines,Cafe
+Craze Kitchen, 201D Tampines Street 21 #01-1171,Tampines,Cafe
+Tipsy Penguin,300 Tampines Ave 5 #01-02A,Tampines,Bar
+Labula Mala Xiang Guo,822 Tampines Street 81,Tampines East,CasualDining
+The Bark Cafe,1000 Upper Changi Rd N,Upper Changi,Cafe
+Reakella Cafe,51 Changi Business Park Central 2 #02-06A,Expo,Cafe
+TAG Restaurant & Bar,1 Expo Dr #01-32,Expo,CasualDining
+Benedito Cafe,618 Upper Bukit Timah Rd B1-02,Cashew,Cafe
+Ga-Hock Seafood,794 Upper Bukit Timah Rd,Cashew,CasualDining
+Sam's Cottage,Dairy Farm Estate #B1-09,Hillview,Bar
+iO Italian Osteria,HillV2 #02-01,Hillview,CasualDining
+BLooiE’s Roadhouse,The Rail Mall,Hillview,CasualDining
+Oven & Fried Chicken,16 Chun Tin Rd,Beauty World,CasualDining
+Shen & Co Cafe,Beauty World Plaza #01-01,Beauty World,Cafe
+Three Meals A Day,12 Chun Tin Rd,Beauty World,CasualDining
+Mia,Sime Darby Centre #01,King Albert Park,CasualDining
+Capri Trattoria & Pizzeria,3 Binjai Park,King Albert Park,CasualDining
+The Living Cafe,779 Bukit Timah Rd,Sixth Avenue,Cafe
+Lazy Lizard,2 Sixth Ave,Sixth Avenue,Bar
+My Little Spanish Place,619 Bukit Timah Rd,Tan Kah Kee,FancyDining
+Choupinette,607 Bukit Timah Rd,Tan Kah Kee,CasualDining
+Al Borgo Italian Restaurant,Alocassia Apartments #01-02,Stevens,CasualDining
+The Spot,Marina One East Tower #01-26/27,Downtown,FancyDining
+ERWIN'S Gastrobar,Marina Bay Link Mall #01-01,Downtown,CasualDining
+No Menu Restaurant,23 Boon Tat St,Telok Ayer,FancyDining
+Birds of a Feather,115 Amoy St #01-01,Telok Ayer,Bar
+Bella Pizza,Village Riverside View #01-14,Fort Canning,CasualDining
+Pixy Restaurant & Bar,Block 16 Mohamed Sultan Road, Fort Canning,Bar
+Ji De Chi Dessert,Hillion Mall #01-23,Bukit Panjang,Cafe
+The Countryside Café,71 Dunlop St,Rochor,Cafe
